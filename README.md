@@ -70,6 +70,9 @@ Add your deployed website link here.
 ## Responsive For Mobile
 ![Responsive](assets/screenshorts/mobileHome.png)
 
+## Footer
+![Footer](assets/screenshorts/footer.png)
+
 ## 📂 Folder Structure
 
 NewProject/
